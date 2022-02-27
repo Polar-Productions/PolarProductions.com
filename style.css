@@ -41,7 +41,7 @@ nav{
 .burger div{
     width: 25px;
     height: 3px;
-    background-color: peachpuff;
+    background-color: white;
     margin: 5px;
     transition: all 0.3 ease;
 }
